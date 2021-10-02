@@ -53,7 +53,7 @@ text-align:center;
 }
 .list-non-bullet
 {
-    list-decoration:none;
+    list-style:none;
 }
 .list-inline
 {
